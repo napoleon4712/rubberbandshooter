@@ -1,0 +1,6 @@
+Dependencies for Project 'Rubber_Band_Shooter', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\startup_rvmdk.S)(0x540D5101)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -D__EVAL-IC:/Keil_v5/ARM/RV31/INC-IC:/Keil_v5/ARM/CMSIS/Include-IC:/Keil_v5/ARM/INC/TI/TM4C123-D__UVISION_VERSION=537-o ./objects/startup_rvmdk.o)
+F (.\Rubber_Band_Shooter.c)(0x627C1FD4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -I ../../../.. -I ../../../..-IC:/Keil_v5/ARM/RV31/INC-IC:/Keil_v5/ARM/CMSIS/Include-IC:/Keil_v5/ARM/INC/TI/TM4C123-D__UVISION_VERSION="537" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o ./objects/rubber_band_shooter.o -MD)
+F (.\Rubber_Band_Shooter.h)(0x627C1FD4)()
+F (..\..\driverlib\rvmdk\driverlib.lib)(0x5542A771)()
